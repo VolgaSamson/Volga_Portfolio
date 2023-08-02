@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+             "baseHref": "/Volga_Portfolio/",
             "outputPath": "dist/volgaportfolio",
             "index": "src/index.html",
             "main": "src/main.ts",
