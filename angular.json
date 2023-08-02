@@ -30,6 +30,9 @@
             "scripts": []
           },
           "configurations": {
+            "github-pages": {
+              "baseHref": "/Volga_Portfolio/"
+            }
             "production": {
               "budgets": [
                 {
